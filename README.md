@@ -7,8 +7,9 @@ This project utilizes Natural Language Processing (NLP) techniques to analyze va
 
 2. Data Transformation:
 
-* PDF files containing climate change reports are converted to text format.
-* Text data is cleaned and pre-processed for NLP analysis.
+  * PDF files containing climate change reports are converted to text format.
+    
+  * Text data is cleaned and pre-processed for NLP analysis.
 
 ## 3. NLP Analysis:
 
