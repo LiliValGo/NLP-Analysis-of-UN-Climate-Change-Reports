@@ -13,8 +13,8 @@ This project utilizes Natural Language Processing (NLP) techniques to analyze va
 ## 3. NLP Analysis:
 
 * [SpaCy](https://spacy.io/usage) NLP tools were used to analyze the text data, including:
-  a. Keyword extraction: Identifying key terms and concepts related to climate change.
-  b. Topic modeling: Identifying the main topics discussed in the reports.
+    a. Keyword extraction: Identifying key terms and concepts related to climate change.
+    b. Topic modeling: Identifying the main topics discussed in the reports.
 
 ## 4. Information Visualization:
 
