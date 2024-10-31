@@ -1,5 +1,15 @@
-# NLP Analysis of UN Climate Change-Reports
-This project utilizes Natural Language Processing (NLP) techniques to analyze vast amounts of textual data within UN Climate Change Reports. By applying NLP, the project aims to extract valuable insights to shed light on critical aspects of climate change.
+# Web Scraping and NLP for IPCC Climate Reports
+This project combines web scraping and Natural Language Processing (NLP) to extract and analyze climate reports from the IPCC. The notebook includes steps to download PDF reports, parse content, and apply NLP techniques to derive insights from the data.
+
+## Project Overview
+This repository focuses on:
+1. **Web Scraping:** Automated extraction and downloading of multiple PDF reports from the IPCC website.
+    
+2. **Data Processing:** Conversion and management of large PDF files, including validation and file existence checks.
+    
+3. **Natural Language Processing (NLP):** Applying NLP to analyze textual content from climate reports, enabling data-driven insights.
+   
+# Steps and tools
 
 ## 1. Data Extraction:
 
